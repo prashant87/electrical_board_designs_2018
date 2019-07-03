@@ -992,4 +992,13 @@ Text Label 6100 3900 2    50   ~ 0
 A0
 Text Label 6100 4000 2    50   ~ 0
 A1
+NoConn ~ 6100 4500
+NoConn ~ 6100 4400
+NoConn ~ 6100 4300
+NoConn ~ 6100 4200
+NoConn ~ 6100 4100
+NoConn ~ 6100 3400
+NoConn ~ 6100 3300
+NoConn ~ 6100 3200
+NoConn ~ 6100 3100
 $EndSCHEMATC
