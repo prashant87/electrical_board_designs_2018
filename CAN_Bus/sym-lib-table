@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name CAN_SPI_BUS_library)(type Legacy)(uri /Users/jean/Desktop/SailBot/CAN_Bus/CAN_SPI_BUS_library.lib)(options "")(descr ""))
-  (lib (name CAN_Bus_Arduino-rescue)(type Legacy)(uri ${KIPRJMOD}/CAN_Bus_Arduino-rescue.lib)(options "")(descr ""))
-)
