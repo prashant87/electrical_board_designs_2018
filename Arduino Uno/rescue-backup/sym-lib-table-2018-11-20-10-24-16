@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Sailbot-Tutorial)(type Legacy)(uri "${KIPRJMOD}/Sailbot Tutorial.lib")(options "")(descr ""))
+)
