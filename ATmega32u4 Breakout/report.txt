@@ -1,0 +1,52 @@
+Info: Checking netlist symbol footprint “R3:/5C4BD652:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “Y1:/5C63BBD0:Crystal:Crystal_HC49-4H_Vertical”.
+
+Info: Checking netlist symbol footprint “U1:/5C49200D:Package_QFP:TQFP-44_10x10mm_P0.8mm”.
+
+Info: Checking netlist symbol footprint “TX1:/5C4BEF60:Diode_SMD:D_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “SW1:/5C562392:Button_Switch_SMD:SW_SPST_PTS645”.
+
+Info: Checking netlist symbol footprint “RX1:/5C4BEFEA:Diode_SMD:D_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “RV2:/5C812312:Varistor:RV_Disc_D7mm_W3.4mm_P5mm”.
+
+Info: Checking netlist symbol footprint “RV1:/5C7E7D1E:Varistor:RV_Disc_D7mm_W3.4mm_P5mm”.
+
+Info: Checking netlist symbol footprint “RP3B1:/5C80B827:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “RP3A1:/5C80B6B3:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “R6:/5C4BD702:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “R5:/5C4BD74E:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “R4:/5C4BD6B2:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “R2:/5C4BD606:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “R1:/5C5373EE:Resistor_SMD:R_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “ON1:/5C4BEECC:Diode_SMD:D_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “L1:/5C4BDCF4:Diode_SMD:D_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “J2:/5C7CD73E:Connector_USB:USB_Micro-B_Molex-105017-0001”.
+
+Info: Checking netlist symbol footprint “J1:/5C64C02F:Connector_PinHeader_1.27mm:PinHeader_2x03_P1.27mm_Vertical”.
+
+Info: Checking netlist symbol footprint “C5:/5C4FE9BC:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “C4:/5C4FF423:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “C3:/5C5013EF:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “C2:/5C501306:Capacitor_SMD:C_0603_1608Metric”.
+
+Info: Checking netlist symbol footprint “C1:/5C560F95:Capacitor_SMD:C_0603_1608Metric”.
+
+Warning: Footprint of symbol “Y1” changed: board footprint “Crystal:Crystal_AT310_D3.0mm_L10.0mm_Vertical”, netlist footprint “Crystal:Crystal_HC49-4H_Vertical”
+
+Warning: Footprint of symbol “J2” changed: board footprint “Connector_USB:USB3_A_Molex_48393-001”, netlist footprint “Connector_USB:USB_Micro-B_Molex-105017-0001”
+
